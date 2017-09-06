@@ -9,3 +9,5 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 
 Merging branches may cause conflicts.
+
+Git use fast-forward method to merge branches.
